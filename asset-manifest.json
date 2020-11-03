@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/assessment-calculator/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/assessment-calculator/static/js/main.ba7d40d8.chunk.js",
+    "main.js.map": "/assessment-calculator/static/js/main.ba7d40d8.chunk.js.map",
+    "runtime-main.js": "/assessment-calculator/static/js/runtime-main.9a69da3c.js",
+    "runtime-main.js.map": "/assessment-calculator/static/js/runtime-main.9a69da3c.js.map",
+    "static/js/2.ab35de10.chunk.js": "/assessment-calculator/static/js/2.ab35de10.chunk.js",
+    "static/js/2.ab35de10.chunk.js.map": "/assessment-calculator/static/js/2.ab35de10.chunk.js.map",
+    "static/js/3.4d0a0f7f.chunk.js": "/assessment-calculator/static/js/3.4d0a0f7f.chunk.js",
+    "static/js/3.4d0a0f7f.chunk.js.map": "/assessment-calculator/static/js/3.4d0a0f7f.chunk.js.map",
+    "index.html": "/assessment-calculator/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/assessment-calculator/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ab35de10.chunk.js.LICENSE.txt": "/assessment-calculator/static/js/2.ab35de10.chunk.js.LICENSE.txt",
+    "static/media/astro.bc754a5b.svg": "/assessment-calculator/static/media/astro.bc754a5b.svg",
+    "static/media/logo.103b5fa1.svg": "/assessment-calculator/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a69da3c.js",
+    "static/js/2.ab35de10.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ba7d40d8.chunk.js"
+  ]
+}
