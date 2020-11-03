@@ -28,11 +28,28 @@
   color: #61dafb;
 }
 
+.submit {
+  color: white;
+  background-color: #EA0A8E;
+}
+
+.solution {
+  color: #EA0A8E;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+form {
+  display: block;
+}
+@media (max-width: 800px) {
+  form {
+    display: grid;
   }
 }

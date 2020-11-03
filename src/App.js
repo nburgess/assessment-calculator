@@ -63,18 +63,26 @@ class App extends React.Component {
           <img src={astro} className="App-logo" alt="astro"/>
           <p>Press "Solve" to generate a solution!</p>
           <form onSubmit={this.handleSubmit}>
+            <label>
               <input onChange={this.handleChange} value={this.state.val1} type="number" name="val1" />
+            </label>
+            <label>
               <select onChange={this.handleChange} value={this.state.operation} name="operation">
                 <option defaultValue value="+">+</option>
                 <option value="-">-</option>
                 <option value="*">*</option>
                 <option value="/">/</option>
               </select>
+            </label>
+            <label>
               <input onChange={this.handleChange} value={this.state.val2} type="number" name="val2" />
-            <input type="submit" value="Solve" />
+            </label>
+            <label>
+              <input className="submit" type="submit" value="Solve" />
+            </label>
           </form>
 
-          <p>Solution: {this.state.solution}</p>
+          <p className="solution">Solution: <b>{this.state.solution}</b></p>
         </header>
       </div>
     );
